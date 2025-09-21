@@ -3,6 +3,7 @@ site_name: Chat API
 nav:
   - About: about.md
   - Contacts: contacts.md
+  - CICD: cicd.md
   - Developer Guide: developer.md
   - Releases:
       - 0.1.0: releases/010_contacts.md
